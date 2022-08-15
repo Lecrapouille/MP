@@ -1,0 +1,16 @@
+To cite Max-Plus Algebra Toolbox for Matlab in publications use:
+
+ Jaroslaw Stanczyk (2016)
+ Max-Plus Algebra Toolbox for Matlab ver.1.7
+ URL http://gen.up.wroc.pl/stanczyk/mpa/
+
+A BibTeX entry for LaTeX users is:
+
+@book{,
+    author = {Jaroslaw Stanczyk},
+    title  = {{Max-Plus Algebra Toolbox for Matlab} version 1.7},
+    year   = {2016},
+    url    = {http://gen.up.wroc.pl/stanczyk/mpa/},
+}
+
+Please cite Max-Plus Algebra Toolbox for Matlab when using it.
